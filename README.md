@@ -23,8 +23,7 @@ I'm a full-stack developer focused on building modern, scalable digital solution
 
 ### Connect
 
-- [LinkedIn](https://www.linkedin.com/in/aftonlim/)
-- [Portfolio](#) *(optional – let me know if you have one you'd like added)*
+- [LinkedIn](www.linkedin.com/in/afton-lim-a36744192)
 
 ---
 
